@@ -42,7 +42,6 @@ body {
     font-family: var(--fonte-principal);
     font-size: 28px;
     font-weight: 700;
-    width: 588px;
 }
 
 .container__imagem {
